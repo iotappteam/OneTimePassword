@@ -39,12 +39,13 @@ public class MainActivity extends AppCompatActivity {
     String TAG = "";
     FirebaseAuth mAuth;
 
-
+    //Ya Naya code ha
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Toast.makeText(this, "naya code", Toast.LENGTH_SHORT).show();
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
 
         //Initializing the instance
