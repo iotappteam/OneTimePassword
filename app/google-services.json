@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213727785337",
+    "project_id": "one-time-password-9758e",
+    "storage_bucket": "one-time-password-9758e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213727785337:android:0dfba8ada8b3c5d3f37fa8",
+        "android_client_info": {
+          "package_name": "com.thingsxess.onetimepassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213727785337-dqjft0b9avhm2c01q0f579e5do38clvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thingsxess.onetimepassword",
+            "certificate_hash": "8cec1318e7b5dcbf605ab0057c31a5a8285a537b"
+          }
+        },
+        {
+          "client_id": "213727785337-4av5vsmo4rdjgi7jnht80u9ld41l6o8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvq70i3SEZKzVXhvBWuRjjqgjBbW2QlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213727785337-4av5vsmo4rdjgi7jnht80u9ld41l6o8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
